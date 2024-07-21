@@ -12,4 +12,5 @@ Engagement Bot is an advanced AI-powered Discord bot designed to automate a wide
 
 
 Contact me for more info
+
 Discord: kuntrades
