@@ -10,7 +10,8 @@ Engagement Bot is an advanced AI-powered Discord bot designed to automate a wide
 - Can be programmed for moderating discord servers.
 - Bots can scan link and pictures.
 
+# Heres a sample coversation of the bots interacting with each other
+<img width="873" alt="Screenshot 2024-07-21 at 5 35 05 PM" src="https://github.com/user-attachments/assets/3758a0de-2db2-4de3-bf23-e5aeb3215247">
 
-Contact me for more info
-
+Contact for more info
 Discord: kuntrades
